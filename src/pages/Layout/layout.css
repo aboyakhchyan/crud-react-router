@@ -1,0 +1,18 @@
+nav {
+    display: flex;
+    background-color: gray;
+    width: 100vw;
+    height: 15vh;
+    gap: 40px;
+    align-items: end;
+}
+
+nav a {
+    color: black;
+    font-size: 30px;
+}
+
+.main {
+    width: 100wv;
+    height: 85vh;
+}

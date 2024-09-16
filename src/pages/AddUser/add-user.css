@@ -1,0 +1,22 @@
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 30px 0 0 30px;
+}
+
+form input {
+    width: 400px;
+    height: 40px;
+}
+
+form button {
+    width: 150px;
+    height: 40px;
+    background-color: rgb(54, 182, 182);
+    color: black;
+}
+
+form button:hover {
+    opacity: 0.7;
+}

@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "b119",
+      "salary": 430000,
+      "age": 30,
+      "surname": "Arakelyan",
+      "name": "Arthur"
+    },
+    {
+      "id": "8c95",
+      "salary": 230000,
+      "age": 18,
+      "surname": "Adamyan",
+      "name": "Anush"
+    },
+    {
+      "salary": 130000,
+      "age": 27,
+      "surname": "Torosyan",
+      "name": "Aram",
+      "id": "24b9"
+    },
+    {
+      "id": "d26c",
+      "salary": 320000,
+      "age": 35,
+      "surname": "Margaryan",
+      "name": "Anahit"
+    }
+  ]
+}

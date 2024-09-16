@@ -1,0 +1,14 @@
+.user-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.user-item {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    font-size: 25px;
+    border: 1px solid black;
+    align-items: center;
+}
