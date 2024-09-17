@@ -38,6 +38,7 @@ export const User = () => {
     useEffect(() => {
         getUserData(id)
         .then(response => setUser(response))
+        .catch(() => navigate('/'))
     }, [])
 
     const {register, handleSubmit, formState: {errors}, reset} = useForm<IForm>({
